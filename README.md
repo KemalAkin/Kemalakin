@@ -10,7 +10,7 @@
 I am a theoretical physicist developing analytical and numerical solutions to any problem I come across in life!
 
 $$
-R_{\mu \nu} - \frac{1}{2}R g_{\mu \nu} = \frac{8 \pi G}{c^4} T_{\mu \nu}
+R_{\mu \nu} - \dfrac{1}{2}R g_{\mu \nu} = \dfrac{8 \pi G}{c^4} T_{\mu \nu}
 $$
   
 
@@ -84,12 +84,12 @@ Strong theory of the early universe is investigated starting from first principl
 <summary> <b> Formalizing Slow-Roll Inflation in Scalar-Tensor Theories of Gravitation </b> </summary>
 
 The viability of slow-roll approximation is examined by considering the structure of phase spaces in scalar--tensor theories of gravitation and the analysis is exemplified with a non-minimally coupled
-scalar field to the spacetime curvature. Observational constraints are analysed using Bayesian interface with CosmoMC using PLANCK 2018 datasets. You can access the article from [here][https://www.sciencedirect.com/science/article/abs/pii/S2212686420303228].
+scalar field to the spacetime curvature. Observational constraints are analysed using Bayesian interface with CosmoMC using PLANCK 2018 datasets. You can access the article from [here](https://www.sciencedirect.com/science/article/abs/pii/S2212686420303228).
 </details>
 <details>
 <summary> <b> Koronoloji </b> </summary>
 
-This personal project has started during COVID-19 outbreak. Case numbers are obtained by web scraping with Beautiful-Soap, local datasets are created, calculation of death/recovery rate, data fitting, visualization are performed with Python, native Excel functions and Adobe Illustrator. Daily numbers and charts are posted using automation scripts to social media through APIs. Currently, website is not active, however Instagram account is still available: [@koronoloji\_com][https://www.instagram.com/koronoloji_com]
+This personal project has started during COVID-19 outbreak. Case numbers are obtained by web scraping with Beautiful-Soap, local datasets are created, calculation of death/recovery rate, data fitting, visualization are performed with Python, native Excel functions and Adobe Illustrator. Daily numbers and charts are posted using automation scripts to social media through APIs. Currently, website is not active, however Instagram account is still available: [@koronoloji\_com](https://www.instagram.com/koronoloji_com)
 </details>
 
 <details>
