@@ -49,17 +49,18 @@ Here are some ideas to get you started:
 ## Details
 
   
-  <details>
+<details>
+<summary>📫 Contact</summary>
 
-<summary>📫 <b> Contact </b> </summary>
-
-🔗[All Links][linktree]
-📽️ [Youtube][linktree]
-
+ - [All Links](linktree)
+ - [Twitter](https://twitter.com/KemalAkin)
+ - [LinkedIn](https://www.linkedin.com/in/kemal-akin-960b80a3/)
+ - [ResearchGate](https://www.researchgate.net/profile/Kemal-Akin)
+ - [YouTube](https://www.youtube.com/channel/UC1B6zPMQR_MwxY90AOr_f_w)
 </details>
  
- <details>
-<summary>🤓<b> Selected Projects</b> </summary>
+<details>
+    <summary>🤓<b> Selected Projects</b> </summary>
 
 
 <details>
