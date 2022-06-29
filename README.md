@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ## Contact:
 ![](https://github.com/Kemalakin/Kemalakin/blob/main/figs/yoda.gif?raw=true)
 
+<img src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/yoda.gif?raw=true" width="128"/>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
