@@ -1,5 +1,8 @@
-###👋
+### 👋
+
 <img align="center" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/yoda.gif?raw=true" width="256"/>
+
+
 I am a theoretical physicist developing analytical and numerical solutions to any problem I come across in life!
 
 Check out [links][linktree] to learn more about me!
