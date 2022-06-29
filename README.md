@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## Contact:
-<div class="tenor-gif-embed" data-postid="16179356" data-share-method="host" data-aspect-ratio="1.5534" data-width="100%"><a href="https://tenor.com/view/star-wars-baby-yoda-the-mandalorian-hello-there-wave-gif-16179356">Star Wars Baby Yoda GIF</a>from <a href="https://tenor.com/search/star+wars-gifs">Star Wars GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![](https://tenor.com/view/star-wars-baby-yoda-the-mandalorian-hello-there-wave-gif-16179356)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
