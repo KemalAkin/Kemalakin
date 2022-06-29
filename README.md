@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## Contact:
-![](https://tenor.com/view/star-wars-baby-yoda-the-mandalorian-hello-there-wave-gif-16179356)
+![](https://c.tenor.com/ouJqKbKyvyAAAAAC/star-wars-baby-yoda.gif)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
