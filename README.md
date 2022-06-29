@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a theoretical physicist developing analytical and numerical solutions to any problem I come across in life!
 
-[Links:][website]
+Check out [links:][linktree] to learn more about me!
 <!--
 **Kemalakin/Kemalakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ## Contact:
 
 
-[website]: https://linktr.ee/KemalAkin
+[linktree]: https://linktr.ee/KemalAkin
