@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## Contact:
-![](https://c.tenor.com/ouJqKbKyvyAAAAAC/star-wars-baby-yoda.gif)
+![](https://github.com/Kemalakin/Kemalakin/blob/main/figs/yoda.gif?raw=true)
 
 <details>
   <summary>:zap: GitHub Stats</summary>
