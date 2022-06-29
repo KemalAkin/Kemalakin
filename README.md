@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a theoretical physicist developing analytical and numerical solutions to any problem I come across in life!
 <!--
 **Kemalakin/Kemalakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
