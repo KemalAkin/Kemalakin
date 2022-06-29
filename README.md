@@ -9,6 +9,9 @@
 
 I am a theoretical physicist developing analytical and numerical solutions to any problem I come across in life!
 
+$$
+R_{\mu \nu} - \frac{1}{2}R g_{\mu \nu} = \frac{8 \pi G}{c^4} T_{\mu \nu}
+$$
   
 
 Check out [links][linktree] to learn more about me!
@@ -43,7 +46,7 @@ Here are some ideas to get you started:
 
   
 
-## Contact:
+## Details
 
   
   <details>
@@ -57,6 +60,7 @@ Here are some ideas to get you started:
  
  <details>
 <summary>🤓<b> Selected Projects</b> </summary>
+
 
 <details>
 <summary> <b> Friedmann Universe Models </b> </summary>
@@ -114,6 +118,7 @@ SIR(Susceptible, Infectious, Recovered) model is derived analytically and couple
 
 Physical and chemical analyses of various forensic evidence from document forgery, ballistics and biological materials have been classified using Principal Component Analysis (PCA) from scikit-learn. A local database for each class of evidence has been created in order to match future evidence.  
 </details>
+</details>
 
 <details>
 
@@ -135,8 +140,5 @@ Physical and chemical analyses of various forensic evidence from document forger
 [yoda]: https://tenor.com/view/star-wars-baby-yoda-the-mandalorian-hello-there-wave-gif-16179356
 
 
-<br/>
 
-$$
-R_{\mu \nu} - \frac{1}{2}R g_{\mu \nu} = \frac{8 \pi G}{c^4} T_{\mu \nu}
-$$
+
