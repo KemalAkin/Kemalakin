@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   
   <details>
 
-<summary>📫 Contact</summary>
+<summary>📫 <b> Contact </b> </summary>
 
 🔗[All Links][linktree]
 📽️ [Youtube][linktree]
@@ -122,7 +122,7 @@ Physical and chemical analyses of various forensic evidence from document forger
 
 <details>
 
-<summary>:zap: GitHub Stats</summary>
+<summary>:zap: <b> Stats </b> </summary>
 
   
 
