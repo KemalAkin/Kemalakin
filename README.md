@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <details>
 <summary> <b> Friedmann Universe Models </b> </summary>
 
-Einstein Field Equations are analytically evaluated for FRW metric and differential equations to describe evolution of the universe obtained. Relevant DEs are solved using numerical methods (NumPy and SciPy). Solutions are visualized using Matplotlib and Seaborn. Python scripts and animated solutions are publicly available [here][https://www.youtube.com/watch?v=1ApCBAW2MzY&list=PL23uNIuuSqCI_-g88U4mi85wumfc8YRIy].
+Einstein Field Equations are analytically evaluated for FRW metric and differential equations to describe evolution of the universe obtained. Relevant DEs are solved using numerical methods (NumPy and SciPy). Solutions are visualized using Matplotlib and Seaborn. Python scripts and animated solutions are publicly available [here](https://www.youtube.com/watch?v=1ApCBAW2MzY&list=PL23uNIuuSqCI_-g88U4mi85wumfc8YRIy).
 </details>
 
 <details>
