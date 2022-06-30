@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <details>
 <summary>📫 Contact</summary>
 
- - [All Links](linktree)
+ - [All Links](https://linktr.ee/KemalAkin)
  - [Twitter](https://twitter.com/KemalAkin)
  - [LinkedIn](https://www.linkedin.com/in/kemal-akin-960b80a3/)
  - [ResearchGate](https://www.researchgate.net/profile/Kemal-Akin)
