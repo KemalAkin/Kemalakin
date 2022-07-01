@@ -14,7 +14,7 @@ R_{\mu \nu} - \dfrac{1}{2}R g_{\mu \nu} = \dfrac{8 \pi G}{c^4} T_{\mu \nu}
 $$
   
 
-Check out [links][linktree] to learn more about me!
+Check out [details](#details) to learn more about me!
 
 <!--
 
