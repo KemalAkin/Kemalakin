@@ -144,5 +144,6 @@ Physical and chemical analyses of various forensic evidence from document forger
 
 - [Inflation in Scalar-Tensor Theories of Gravitation](https://www.youtube.com/watch?v=qY57ptmequE&list=PL23uNIuuSqCIDCQCOXHiNVPXMQ9auzxqI&index=3)
 - [Cosmology: Fundamental Observations and Cosmic Dynamics](https://www.youtube.com/watch?v=jf2ufe3by9U&list=PL23uNIuuSqCIDCQCOXHiNVPXMQ9auzxqI&index=2)
-- [Document Preparation with $\LaTeX$](https://www.youtube.com/watch?v=7xDRiVObuF4&list=PL23uNIuuSqCIDCQCOXHiNVPXMQ9auzxqI&index=1)
+- [Document Preparation with LaTeX](https://www.youtube.com/watch?v=7xDRiVObuF4&list=PL23uNIuuSqCIDCQCOXHiNVPXMQ9auzxqI&index=1)
+- [Bibliography Management with Mendeley](https://www.youtube.com/watch?v=sk9UYmUwfB4&list=PLmq86vD98cHLb4zneGX-zH1E5cde1_eoa&index=5)
 
