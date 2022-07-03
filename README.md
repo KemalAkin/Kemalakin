@@ -125,20 +125,28 @@ Physical and chemical analyses of various forensic evidence from document forger
 
 <summary>:zap: <b> Stats </b> </summary>
 
+ <img  align="left"  alt="Kemal's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=Kemalakin&show_icons=true&hide_border=false&title_color=E84231&icon_color=FFC300&bg_color=09131B&text_color=ffffff&border_color=0c1a25"  />
+<br />
   
-
-<img  align="left"  alt="Kemal's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=Kemalakin&show_icons=true&hide_border=false&title_color=E84231&icon_color=FFC300&bg_color=09131B&text_color=ffffff&border_color=0c1a25"  />
-
+<br />
   
-
-</details>
-
-  
+ </details>
 
 [linktree]: https://linktr.ee/KemalAkin
 [youtube]: https://linktr.ee/KemalAkin
 
 [yoda]: https://tenor.com/view/star-wars-baby-yoda-the-mandalorian-hello-there-wave-gif-16179356
+
+## Programming Languages and Other Tools
+
+<img align="left" alt="Python" width="26px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/python.png?raw=true" title="Python"/>
+<img align="left" alt="Matlab" width="26px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/matlab.png?raw=true" title="Matlab"/>
+<img align="left" alt="Mathematica" width="26px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/mathematica.png?raw=true" title="Mathematica"/>
+<img align="left" alt="LaTeX" width="26px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/latex.png?raw=true" title="LaTeX"/>
+<img align="left" alt="Photoshop" width="26px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/ps.png?raw=true" title="Photoshop"/>
+<img align="left" alt="Illustrator" width="26px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/ai.png?raw=true" title="Illustrator"/>
+
+<br />
 
 ## 📺 Talks on YouTube[TR]
 
