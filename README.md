@@ -18,29 +18,7 @@ Check out [details](#details) to learn more about me!
 
 <!--
 
-**Kemalakin/Kemalakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-  
-
-Here are some ideas to get you started:
-
-  
-
 - 🔭 I’m currently working on ...
-
-- 🌱 I’m currently learning ...
-
-- 👯 I’m looking to collaborate on ...
-
-- 🤔 I’m looking for help with ...
-
-- 💬 Ask me about ...
-
-- 📫 How to reach me: ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
 
 -->
 
@@ -125,7 +103,7 @@ Physical and chemical analyses of various forensic evidence from document forger
 
 <summary>:zap: <b> Stats </b> </summary>
 
- <img  align="left"  alt="Kemal's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=Kemalakin&show_icons=true&hide_border=false&title_color=E84231&icon_color=FFC300&bg_color=09131B&text_color=ffffff&border_color=0c1a25"  />
+<img  align="left"  alt="Kemal's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=Kemalakin&show_icons=true&hide_border=false&title_color=E84231&icon_color=FFC300&bg_color=09131B&text_color=ffffff&border_color=0c1a25"  />
 <br />
   
 <br />
@@ -133,22 +111,26 @@ Physical and chemical analyses of various forensic evidence from document forger
  </details>
 
 [linktree]: https://linktr.ee/KemalAkin
-[youtube]: https://linktr.ee/KemalAkin
-
-[yoda]: https://tenor.com/view/star-wars-baby-yoda-the-mandalorian-hello-there-wave-gif-16179356
+[latex]: https://www.youtube.com/watch?v=7xDRiVObuF4&list=PL23uNIuuSqCIDCQCOXHiNVPXMQ9auzxqI&index=1
 
 ## Programming Languages and Other Tools
 
-<img align="left" alt="Python" width="26px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/python.png?raw=true" title="Python"/>
-<img align="left" alt="Matlab" width="26px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/matlab.png?raw=true" title="Matlab"/>
-<img align="left" alt="Mathematica" width="26px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/mathematica.png?raw=true" title="Mathematica"/>
-<img align="left" alt="LaTeX" width="26px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/latex.png?raw=true" title="LaTeX"/>
-<img align="left" alt="Photoshop" width="26px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/ps.png?raw=true" title="Photoshop"/>
-<img align="left" alt="Illustrator" width="26px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/ai.png?raw=true" title="Illustrator"/>
+<img align="left" alt="Python" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/python.png?raw=true" title="Python"/>
+<img align="left" alt="Matlab" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/matlab.png?raw=true" title="Matlab"/>
+<img align="left" alt="Mathematica" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/mathematica.png?raw=true" title="Mathematica"/>
+
+[<img align="left" alt="LaTeX" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/latex.png?raw=true" title="LaTeX"/>][latex]
+
+<img align="left" alt="Markdown" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/md.png?raw=true" title="MarkDown"/>
+<img align="left" alt="Terminal" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/terminal.png?raw=true" title="Terminal"/>
+<img align="left" alt="Git" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/git.png?raw=true" title="Git"/>
+<img align="left" alt="VS Code" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/vsCode.png?raw=true" title="VS Code"/>
+<img align="left" alt="Photoshop" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/ps.png?raw=true" title="Photoshop"/>
+<img align="left" alt="Illustrator" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/ai.png?raw=true" title="Illustrator"/>
 
 <br />
 
-## 📺 Talks on YouTube[TR]
+## 📺 Talks on YouTube [TR]
 
 - [Inflation in Scalar-Tensor Theories of Gravitation](https://www.youtube.com/watch?v=qY57ptmequE&list=PL23uNIuuSqCIDCQCOXHiNVPXMQ9auzxqI&index=3)
 - [Cosmology: Fundamental Observations and Cosmic Dynamics](https://www.youtube.com/watch?v=jf2ufe3by9U&list=PL23uNIuuSqCIDCQCOXHiNVPXMQ9auzxqI&index=2)
