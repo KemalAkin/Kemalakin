@@ -2,10 +2,7 @@
 
   
 
-<center><img  src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/dpool.gif?raw=true"  width="480"/></center>
-
-  
-  
+<img align="center" alt= "Hey!" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/dpool.gif?raw=true"  width="480" title="Hey!" />
 
 I am a theoretical physicist developing analytical and numerical solutions to any problem I come across in life!
 
@@ -116,6 +113,7 @@ Physical and chemical analyses of various forensic evidence from document forger
 ## Programming Languages and Other Tools
 
 <img align="left" alt="Python" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/python.png?raw=true" title="Python"/>
+<img align="left" alt="Jupyter" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/jupyter.png?raw=true" title="Jupyter Notebook"/>
 <img align="left" alt="Matlab" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/matlab.png?raw=true" title="Matlab"/>
 <img align="left" alt="Mathematica" width="30px" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/mathematica.png?raw=true" title="Mathematica"/>
 
