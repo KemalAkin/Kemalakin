@@ -1,8 +1,9 @@
-### 👋
+<p align="center">
+  <h3 align="center">Hi, I'm Kemal </h3>
+  <img alt= "Hey!" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/dpool.gif?raw=true"  width="480" title="Hey!" />
+</p>
 
-  
 
-<img align="center" alt= "Hey!" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/dpool.gif?raw=true"  width="480" title="Hey!" />
 
 I am a theoretical physicist developing analytical and numerical solutions to any problem I come across in life!
 
@@ -12,6 +13,10 @@ $$
   
 
 Check out [details](#details) to learn more about me!
+
+<p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=kemalakin&color=red&style=flat" alt="Kemal's Profile Views" />
+</p>
 
 <!--
 
