@@ -14,12 +14,12 @@ $$
 
 Check out [details](#details) to learn more about me!
 
-<p align="center"> 
-  <img align="left" src="https://komarev.com/ghpvc/?username=kemalakin&color=red&style=flat" alt="Kemal's Profile Views" />
-</p>
-
+[![Github Follow](https://img.shields.io/github/followers/KemalAkin?color=red&label=GitHub&logo=github)](https://github.com/KemalAkin)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KemalAkin?color=red&logo=twitter&logoColor=ffffff&style=flat&label=Twitter)](https://twitter.com/KemalAkin)
+![YouTube](https://img.shields.io/youtube/channel/subscribers/UC1B6zPMQR_MwxY90AOr_f_w?color=red&label=YouTube&logo=youtube&style=flat-square)
+
 <br/>
+
 
 <!--
 
@@ -107,13 +107,15 @@ Physical and chemical analyses of various forensic evidence from document forger
 <details>
 
 <summary>:zap: <b> Stats </b> </summary>
+<!-- 
+<p align="center"> 
+  <img align="left" src="https://komarev.com/ghpvc/?username=kemalakin&color=red&style=flat" alt="Kemal's Profile Views" />
+</p>
+-->
 
 <img  align="left"  alt="Kemal's GitHub Stats"  src="https://github-readme-stats.vercel.app/api?username=Kemalakin&show_icons=true&hide_border=false&title_color=E84231&icon_color=FFC300&bg_color=09131B&text_color=ffffff&border_color=0c1a25"  />
-<br />
-  
-<br />
-  
- </details>
+
+</details>
 
 [linktree]: https://linktr.ee/KemalAkin
 [latex]: https://www.youtube.com/watch?v=7xDRiVObuF4&list=PL23uNIuuSqCIDCQCOXHiNVPXMQ9auzxqI&index=1
