@@ -15,8 +15,10 @@ $$
 Check out [details](#details) to learn more about me!
 
 <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=kemalakin&color=red&style=flat" alt="Kemal's Profile Views" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=kemalakin&color=red&style=flat" alt="Kemal's Profile Views" />
 </p>
+
+<br/>
 
 <!--
 
