@@ -18,6 +18,7 @@ Check out [details](#details) to learn more about me!
   <img align="left" src="https://komarev.com/ghpvc/?username=kemalakin&color=red&style=flat" alt="Kemal's Profile Views" />
 </p>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/KemalAkin?color=red&logo=twitter&logoColor=ffffff&style=flat&label=Twitter)](https://twitter.com/KemalAkin)
 <br/>
 
 <!--
