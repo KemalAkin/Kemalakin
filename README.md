@@ -6,7 +6,7 @@
   <img alt= "Hey!" src="https://github.com/Kemalakin/Kemalakin/blob/main/figs/dpool.gif?raw=true"  width="480" title="Hey!" />
 </p>
 
-I am a theoretical and computational physicist working on the origin and evolution of the universe. As a habit, I seek analytical and numerical solutions to any problem I come across in life!
+I am a theoretical and computational physicist working on the origin and evolution of the universe. I seek analytical and numerical solutions to any problem I come across in life!
 
 $$
 R_{\mu \nu} - \dfrac{1}{2}R g_{\mu \nu} = \dfrac{8 \pi G}{c^4} T_{\mu \nu}
