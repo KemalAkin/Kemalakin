@@ -15,14 +15,13 @@ $$
 
 Check out [details](#details) to learn more about me!
 
-[![Github Follow](https://img.shields.io/github/followers/KemalAkin?color=red&label=GitHub&logo=github)](https://github.com/KemalAkin)
 [![Twitter Follow](https://img.shields.io/twitter/follow/KemalAkin?color=red&logo=twitter&logoColor=ffffff&style=flat&label=Twitter)](https://twitter.com/KemalAkin)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC1B6zPMQR_MwxY90AOr_f_w?color=red&label=YouTube&logo=youtube&style=flat-square)](https://www.youtube.com/channel/UC1B6zPMQR_MwxY90AOr_f_w)
 
 <!--
 
 - 🔭 I’m currently working on ...
-
+[![Github Follow](https://img.shields.io/github/followers/KemalAkin?color=red&label=GitHub&logo=github)](https://github.com/KemalAkin)
 -->
 
   
