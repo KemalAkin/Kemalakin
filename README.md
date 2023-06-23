@@ -14,7 +14,6 @@ $$ R_{\mu \nu} - \dfrac{1}{2}R g_{\mu \nu} = \dfrac{8 \pi G}{c^4} T_{\mu \nu} $$
 
 Check out [details](#details) to learn more about me!
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/KemalAkin?color=red&logo=twitter&logoColor=ffffff&style=flat&label=Twitter)](https://twitter.com/KemalAkin)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UC1B6zPMQR_MwxY90AOr_f_w?color=red&label=YouTube&logo=youtube&style=flat-square)](https://www.youtube.com/channel/UC1B6zPMQR_MwxY90AOr_f_w)
 
 <!--
@@ -30,9 +29,6 @@ Check out [details](#details) to learn more about me!
   
 <details>
 <summary>📫 <b> Contact </b> </summary>
-
- - [All Links](https://linktr.ee/KemalAkin)
- - [Twitter](https://twitter.com/KemalAkin)
  - [LinkedIn](https://www.linkedin.com/in/kemal-akin-960b80a3/)
  - [ResearchGate](https://www.researchgate.net/profile/Kemal-Akin)
  - [YouTube](https://www.youtube.com/channel/UC1B6zPMQR_MwxY90AOr_f_w)
